@@ -8,22 +8,20 @@
     <img src="https://komarev.com/ghpvc/?username=truonganletk&style=flat-square&color=blue" alt=""/>
 </div>
 
-<br>
 
 
 <h2> Hey there
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 I'm An Le
-<br>
+
+    
 I'm a guy who likes code from Viet Nam
 </h2>
 
 
----
 
 
-
-### <h2>💥 My Stats 💥</h2>
+### 💥 My Stats 💥
 
 <div>
 
